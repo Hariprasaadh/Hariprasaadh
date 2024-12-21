@@ -23,3 +23,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariprasaadh&show_icons=true&locale=en&layout=compact" alt="hariprasaadh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariprasaadh&" alt="hariprasaadh" /></p>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/Hariprasaadh/Hariprasaadh/blob/output/github-snake-dark.svg)
+</div>
+
