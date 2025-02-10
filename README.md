@@ -27,6 +27,8 @@ B.Tech undergraduate at VIT University, specializing in Artificial Intelligence 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariprasaadh&" alt="hariprasaadh" /></p>
 
+![GitHub Views](https://komarev.com/ghpvc/?username=prashhviji&color=blue&style=flat-square)
+
 <div align="center">
   
   ![snake gif](https://github.com/Hariprasaadh/Hariprasaadh/blob/output/github-snake-dark.svg)
