@@ -11,7 +11,7 @@ B.Tech undergraduate at VIT University, specializing in Artificial Intelligence 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hariprasaadh](https://github.com/Hariprasaadh)
 
-- 🌍 Check out my portfolio website: [Portfolio Link](https://hari-five.vercel.app/)
+- 🌍 Check out my portfolio website: [Portfolio Link](https://hariprasaadh.vercel.app/)
 
 
 - 📫 How to reach me **hari.kdh7376@gmail.com**
