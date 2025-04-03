@@ -48,8 +48,3 @@
 
 ### 🐍 GitHub Contribution Snake  
 <div align="center"> ![snake gif](https://github.com/Hariprasaadh/Hariprasaadh/blob/output/github-snake-dark.svg) </div>
-
----
-
-📫 **How to Reach Me:**  
-📧 **Email:** hari.kdh7376@gmail.com  
