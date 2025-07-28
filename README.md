@@ -62,6 +62,9 @@ Proficient in Python, C++, and Java with a passion for applying emerging technol
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-7C3AED?style=for-the-badge&logo=clerk&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
