@@ -33,7 +33,7 @@ Proficient in Python, C++, and Java with a passion for applying emerging technol
 <a href="https://www.leetcode.com/hariprasaadh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Tech Arsenal
+## 🛠️ TechStack
 
 ### Languages
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
