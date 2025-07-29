@@ -2,23 +2,23 @@
 
 # K. Hariprasaadh
 
-## AI & Machine Learning Specialist
+## AI Engineer | Full-Stack ML Developer
 
-B.Tech undergraduate at VIT University specializing in Artificial Intelligence & Machine Learning with expertise in:
-- Data Analysis & Visualization
-- Machine Learning & Deep Learning
-- Computer Vision & Natural Language Processing
-- Generative AI & Model Development
-- Full-Stack Integration of ML Solutions
+I'm K. Hariprasaadh, an AI and Machine Learning enthusiast who thrives at the intersection of innovation, problem-solving, and continuous learning. I’m currently pursuing my B.Tech in Computer Science with a specialization in AI & ML, and I’ve spent the last few years immersing myself in the evolving landscape of artificial intelligence and full-stack development.
 
-Proficient in Python, C++, and Java with a passion for applying emerging technologies to solve complex business problems.
+My core strength lies in bridging the gap between AI research and real-world application. I work confidently with Python, Java, and C++, and I’m also fluent in modern web technologies like React, Next.js, and Tailwind CSS. On the backend, I prefer FastAPI for building robust APIs, and I’m experienced in deploying solutions using Docker, Firebase, and AWS. I’ve spent a lot of time working with Generative AI and LLM ecosystems. I actively experiment with LangChain, LangGraph, Hugging Face models, and vector stores like Qdrant and ChromaDB. I enjoy fine-tuning pipelines, optimizing prompts, and architecting agentic workflows that actually make a difference.
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 ### Current Focus
-- 🔍 Advancing my expertise in Generative AI architectures
-- 💻 Building practical AI solutions with production-ready deployment
-- 🌐 Exploring cloud-based ML infrastructure
+
+I'm currently exploring the next generation of Generative AI systems. My goal is to go beyond traditional prompting and understand how intelligence can emerge through collaborative agents, tool integration, and multimodal interactions.
+
+I'm particularly interested in multi-agent systems and have been studying new protocols like MCP (Multi-Agent Communication Protocol) and Agent-to-Agent (A2A) communication frameworks. These help LLMs interact, share memory, and reason collectively, offering a new way to solve complex, layered tasks.
+
+I'm also working with LangGraph, which enables me to build flexible, condition-based agent workflows. It has helped me model real-world logic flows where decisions are made dynamically, based on evolving context or retrieved memory.
+
+
 
 ### Portfolio & Contact
 - 📂 [GitHub Projects](https://github.com/Hariprasaadh)
@@ -62,10 +62,9 @@ Proficient in Python, C++, and Java with a passion for applying emerging technol
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-7C3AED?style=for-the-badge&logo=clerk&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
