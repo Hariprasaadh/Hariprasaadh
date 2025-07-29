@@ -1,7 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://Hariprasaadh.io)
 
-# K. Hariprasaadh
-
 ## AI Engineer | Full-Stack ML Developer
 
 I'm K. Hariprasaadh, an AI and Machine Learning enthusiast who thrives at the intersection of innovation, problem-solving, and continuous learning. I’m currently pursuing my B.Tech in Computer Science with a specialization in AI & ML, and I’ve spent the last few years immersing myself in the evolving landscape of artificial intelligence and full-stack development.
