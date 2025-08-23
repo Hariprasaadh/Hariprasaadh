@@ -8,7 +8,7 @@ My core strength lies in bridging the gap between AI research and real-world app
 
 
 
-### Current Focus
+## Current Focus
 
 I'm currently exploring the next generation of Generative AI systems. My goal is to go beyond traditional prompting and understand how intelligence can emerge through collaborative agents, tool integration, and multimodal interactions.
 
@@ -18,7 +18,7 @@ I'm also working with LangGraph, which enables me to build flexible, condition-b
 
 
 
-### Portfolio & Contact
+## Portfolio & Contact
 - 📂 [GitHub Projects](https://github.com/Hariprasaadh)
 - 🌍 [Professional Portfolio](https://hariprasaadh.vercel.app/)
 - 📧 [Email](mailto:hari.kdh7376@gmail.com)
@@ -27,7 +27,6 @@ I'm also working with LangGraph, which enables me to build flexible, condition-b
 
 <p align="left">
 <a href="https://linkedin.com/in/hariprasaadh-k-a5430a287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://kaggle.com/hariprasaadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hariprasaadh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
