@@ -28,7 +28,7 @@ I'm K. Hariprasaadh, an AI Engineer specializing in building intelligent systems
 
 My technical expertise spans across **Python, Java, and C++**, and modern **React, Next.js, and Tailwind CSS** for building intuitive frontend interfaces. I architect scalable APIs using **FastAPI** and deploy containerized applications through **Docker, AWS, and Firebase**.
 
-What sets me apart is my deep specialization in **Generative AI and Large Language Models**. I design and implement complex **agentic workflows** using **LangChain and LangGraph**, orchestrate **RAG pipelines** with vector databases like **Qdrant and ChromaDB**, and integrate **Multi-Agent Communication Protocols (MCP)** to enable collaborative AI systems. I fine-tune models from **Hugging Face** for domain-specific applications and architect systems where multiple LLMs communicate, share context, and reason collectively to solve complex, layered problems. My focus is on creating AI systems that are not just technically sound, but genuinely transformative.
+What sets me apart is my deep specialization in **Generative AI and Large Language Models**. I design and implement complex **agentic workflows** using **LangChain and LangGraph**, orchestrate **RAG pipelines** with vector databases like **Qdrant and ChromaDB**, and integrate **Multi-Agent Communication Protocols** to enable collaborative AI systems. I fine-tune models from **Hugging Face** for domain-specific applications and architect systems where multiple LLMs communicate, share context, and reason collectively to solve complex, layered problems. My focus is on creating AI systems that are not just technically sound, but genuinely transformative.
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -41,7 +41,7 @@ I'm pushing the boundaries of **Generative AI** by exploring how intelligent age
 
 Currently diving deep into:
 
-**Multi-Agent Communication Protocols (MCP)** - Designing systems where multiple LLMs communicate, share context, and reason collectively to tackle layered, interdependent tasks that single agents cannot solve alone.
+**Multi-Agent Communication Protocols** - Designing systems where multiple LLMs communicate, share context, and reason collectively to tackle layered, interdependent tasks that single agents cannot solve alone.
 
 **LangGraph State Machines** - Building dynamic, condition-based agent workflows that adapt in real-time based on retrieved memory, external tool outputs, and evolving conversation context.
 
