@@ -31,8 +31,6 @@ My technical expertise spans across **Python, Java, and C++**, and modern **Reac
 What sets me apart is my deep specialization in **Generative AI and Large Language Models**. I design and implement complex **agentic workflows** using **LangChain and LangGraph**, orchestrate **RAG pipelines** with vector databases like **Qdrant and ChromaDB**, and integrate **Multi-Agent Communication Protocols** to enable collaborative AI systems. I fine-tune models from **Hugging Face** for domain-specific applications and architect systems where multiple LLMs communicate, share context, and reason collectively to solve complex, layered problems. My focus is on creating AI systems that are not just technically sound, but genuinely transformative.
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🔬 Current Focus
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Multi-Agent+Communication+Protocols;LangGraph+State+Machines;Vector+Database+Optimization;Agentic+Workflow+Design" alt="Learning SVG" /></a>
@@ -49,7 +47,6 @@ Currently diving deep into:
 
 My goal is to architect AI systems where intelligence emerges not just from individual models, but from how they collaborate and evolve together.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -57,6 +54,7 @@ My goal is to architect AI systems where intelligence emerges not just from indi
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
